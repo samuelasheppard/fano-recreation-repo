@@ -2,7 +2,7 @@
 
 This is a recreation of https://www.fanoguitars.com/
 
-This was done as a part of my course.
+This was done as a part of my course with The Jump.
 
 Not the whole website has been recreated. This project includes:
   Homepage
