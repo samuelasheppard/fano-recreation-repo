@@ -1,0 +1,30 @@
+FONT: 
+
+Questrial - Header and Nav  
+weight 700 400 600
+size 32px 16px 18px
+line height 55px
+color #d5d5d5 white
+V
+V
+alt
+Kanit 
+100
+200
+300
+400
+500
+
+Open Sans - Everything else
+
+HTML----------------------------------------
+
+<div class="region-options">
+                    <a href="#asia"><h3>Prev.</h3></a>
+                    <a href="#aus"><h3>Next</h3></a>
+                </div> 
+
+<div class="region-options">
+                    <a href="#usa"><h3>Prev.</h3></a>
+                    <a href="#can"><h3>Next</h3></a>
+                </div> 
